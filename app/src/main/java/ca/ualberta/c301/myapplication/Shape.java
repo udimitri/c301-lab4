@@ -4,7 +4,8 @@ public abstract class Shape {
     private int x;
     private int y;
     private int z;
-    private string Color;
+    private String Color;
+
 }
 
 
